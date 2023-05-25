@@ -463,20 +463,20 @@
                  "y":544
                 }, 
                 {
-                 "height":124,
+                 "height":32,
                  "id":20,
                  "name":"Pausenraum",
                  "properties":[
                         {
-                         "name":"Pause machen",
+                         "name":"string",
                          "type":"string",
-                         "value":""
+                         "value":"WA.chat.sendChatMessage('Jemand macht gerade Pause', );"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":50.6666666666667,
-                 "x":74.6666666666667,
+                 "width":32,
+                 "x":64,
                  "y":264
                 }],
          "opacity":1,
