@@ -480,9 +480,9 @@
                  "y":264
                 }, 
                 {
-                 "height":50.6666666666667,
-                 "id":30,
-                 "name":"Websitetest",
+                 "height":65.3333333333333,
+                 "id":32,
+                 "name":"WebsiteTest",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -490,11 +490,11 @@
                          "value":"https:\/\/www.youtube.com\/watch?v=VEligJuZjJY"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":69.3333333333333,
-                 "x":581.333333333333,
-                 "y":116
+                 "width":61.3333333333334,
+                 "x":513.333333333333,
+                 "y":381.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -577,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":31,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
