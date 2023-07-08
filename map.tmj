@@ -480,8 +480,8 @@
                  "y":264
                 }, 
                 {
-                 "height":52,
-                 "id":22,
+                 "height":50.6666666666667,
+                 "id":30,
                  "name":"Websitetest",
                  "properties":[
                         {
@@ -490,11 +490,11 @@
                          "value":"https:\/\/www.youtube.com\/watch?v=VEligJuZjJY"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"",
                  "visible":true,
-                 "width":60,
-                 "x":640,
-                 "y":93.3333333333333
+                 "width":69.3333333333333,
+                 "x":581.333333333333,
+                 "y":116
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -577,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
