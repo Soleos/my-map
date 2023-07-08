@@ -480,7 +480,7 @@
                  "y":264
                 }, 
                 {
-                 "height":32,
+                 "height":52,
                  "id":22,
                  "name":"Websitetest",
                  "properties":[
@@ -490,7 +490,7 @@
                          "value":"https:\/\/www.youtube.com\/watch?v=VEligJuZjJY"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":60,
                  "x":640,
@@ -577,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":23,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
