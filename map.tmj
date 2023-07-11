@@ -567,38 +567,6 @@
                  "width":73.3333333333334,
                  "x":596,
                  "y":129.333333333333
-                }, 
-                {
-                 "height":60,
-                 "id":36,
-                 "name":"jitsiTestingRoom",
-                 "properties":[
-                        {
-                         "name":"focus",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"TestingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":93.3333333333333,
-                 "x":64,
-                 "y":352
                 }],
          "opacity":1,
          "type":"objectgroup",
