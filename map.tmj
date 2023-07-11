@@ -555,7 +555,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-testoffice"
+                         "value":"conference.tmj#testfrom-office"
                         }],
                  "rotation":0,
                  "type":"area",
