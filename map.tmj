@@ -361,38 +361,6 @@
                 }, 
                 {
                  "height":128,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":192,
-                 "x":32,
-                 "y":96
-                }, 
-                {
-                 "height":128,
                  "id":14,
                  "name":"silentZone",
                  "properties":[
