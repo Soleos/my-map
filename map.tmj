@@ -440,7 +440,7 @@
                  "name":"Webtest2",
                  "properties":[
                         {
-                         "name":"openSite",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/de.wikipedia.org\/wiki\/Nebel_(Astronomie)"
                         }],
@@ -536,7 +536,7 @@
                          "value":"TestRoom"
                         }, 
                         {
-                         "name":"jitsiTrigg",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
