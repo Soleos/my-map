@@ -548,23 +548,6 @@
                  "y":318.666666666667
                 }, 
                 {
-                 "height":65.3333333333334,
-                 "id":42,
-                 "name":"TestEntry-conference",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"conference.tmj#Test-fromMap"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":33.3333333333333,
-                 "x":222.666666666667,
-                 "y":574.666666666667
-                }, 
-                {
                  "height":26.6666666666667,
                  "id":43,
                  "name":"testfrom-conference",
@@ -580,6 +563,23 @@
                  "width":62.6666666666667,
                  "x":321.333333333333,
                  "y":642.666666666667
+                }, 
+                {
+                 "height":62.6666666666666,
+                 "id":44,
+                 "name":"testto-conference",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"conference.tmj#Test-fromMap"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":29.3333333333333,
+                 "x":225.333333333333,
+                 "y":574.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -662,7 +662,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":44,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
