@@ -321,6 +321,7 @@
          "y":0
         }, 
         {
+         "class":"area",
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
@@ -507,7 +508,7 @@
                          "value":true
                         }, 
                         {
-                         "name":"jitsR",
+                         "name":"jitsRoom",
                          "type":"string",
                          "value":"Meetingroom"
                         }, 
