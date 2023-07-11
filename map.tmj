@@ -521,7 +521,7 @@
                  "name":"jitsiTestRoom",
                  "properties":[
                         {
-                         "name":"focus",
+                         "name":"focusable",
                          "type":"bool",
                          "value":true
                         }, 
