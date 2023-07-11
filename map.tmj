@@ -545,7 +545,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":84,
                  "x":72,
