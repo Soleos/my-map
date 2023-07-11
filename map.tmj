@@ -96,27 +96,6 @@
                  "id":4,
                  "name":"floor1",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"Zoom_margin",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRooam"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":31,
@@ -471,6 +450,102 @@
                  "width":73.3333333333334,
                  "x":601.333333333333,
                  "y":129.333333333333
+                }, 
+                {
+                 "height":220,
+                 "id":39,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":188,
+                 "x":769.333333333333,
+                 "y":224
+                }, 
+                {
+                 "height":125.333333333333,
+                 "id":40,
+                 "name":"jitsiChillZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ChillZone"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":190.666666666667,
+                 "x":32,
+                 "y":96
+                }, 
+                {
+                 "height":64,
+                 "id":41,
+                 "name":"jitsiTestRoom",
+                 "properties":[
+                        {
+                         "name":"Zoom",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"focus",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"TestRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigg",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":94.6666666666667,
+                 "x":65.3333333333333,
+                 "y":318.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -553,7 +628,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":39,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "properties":[
         {
