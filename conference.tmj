@@ -370,7 +370,7 @@
                 {
                  "height":36.3964456596036,
                  "id":25,
-                 "name":"testfrom-office",
+                 "name":"the-office",
                  "properties":[
                         {
                          "name":"start",
@@ -381,8 +381,8 @@
                  "type":"",
                  "visible":true,
                  "width":37.7963089542037,
-                 "x":545.946684894053,
-                 "y":95.8906356801094
+                 "x":663.535201640465,
+                 "y":248.475734791524
                 }],
          "opacity":1,
          "type":"objectgroup",
