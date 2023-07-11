@@ -521,11 +521,6 @@
                  "name":"jitsiTestRoom",
                  "properties":[
                         {
-                         "name":"Zoom",
-                         "type":"float",
-                         "value":0.5
-                        }, 
-                        {
                          "name":"focus",
                          "type":"bool",
                          "value":true
@@ -539,6 +534,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0.5
                         }],
                  "rotation":0,
                  "type":"area",
@@ -555,7 +555,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"conference.tmj#from-testoffice"
                         }],
                  "rotation":0,
                  "type":"area",
